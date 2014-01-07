@@ -12,6 +12,7 @@
 
 <body>
 
+<!-- Navigation Bar -->
 <div id='navBar'>Ivser</div>
 
 <div id="app">
